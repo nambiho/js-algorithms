@@ -1,2 +1,2 @@
 # js-algorithms
-set javascript algorithm
+collection of javascript algorithm
