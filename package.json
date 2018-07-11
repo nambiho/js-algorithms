@@ -16,5 +16,7 @@
     "url": "https://github.com/nambiho/js-algorithms/issues"
   },
   "homepage": "https://github.com/nambiho/js-algorithms#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "grunt": "^1.0.3"
+  }
 }
