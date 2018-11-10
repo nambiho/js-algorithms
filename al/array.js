@@ -10,10 +10,6 @@ function array () {
  */
 (function (A) {
 	/**
-	 * Method
-	 * 	from
-	 * 	of
-	 * 
 	 * Prototype
 	 * 	copyWithin
 	 * 	fill
