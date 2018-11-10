@@ -21,9 +21,6 @@ function array () {
 	 * 	findIndex
 	 */
 
-	A.prototype.from = function () {}
-	A.prototype.of = function () {}
-
 	A.prototype.copyWithin = function () {}
 	A.prototype.fill = function () {}
 	A.prototype.find = function () {}
