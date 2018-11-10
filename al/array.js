@@ -29,4 +29,5 @@ function array () {
 	A.prototype.find = function () {}
 	A.prototype.findIndex = function () {}
 
-} (array()))
+})
+(array())
